@@ -8,7 +8,7 @@
 
 # Miembros del grupo
 
-* Alés Rodríguez, Manuel (manalerod@alum.us.es) <br>
+* Aléx Rodríguez, Manuel (manalerod@alum.us.es) <br>
 * Fernández Fernández, Adrián (adrferfer@alum.us.es) <br>
 * Patón Gutiérrez, Miguel (migpatgut@alum.us.es) <br>
 * Romero Caro, Manuel Antonio (manromcar2@alum.us.es) <br>
